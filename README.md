@@ -1,4 +1,4 @@
-# Java Calculator App
+# Java Task Manager App
 
 ## 📌 Description
 This is a simple task manager application built using Java. It performs basic arithmetic operations such as adding tasks, deleting tasks, and editing tasks.
